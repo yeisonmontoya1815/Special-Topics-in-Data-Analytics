@@ -5,7 +5,7 @@ This Space has been created to share some examples of the seminar given in the S
 
 
 ## Seminar 1
-Structured Data Mining - Random Forest Algorithm
+Structured Data Mining - Random Forest Algorithm: Random Forest is an ensemble learning algorithm that combines the strength of multiple decision trees to enhance the overall predictive accuracy and robustness of the model. It falls under the category of supervised machine learning and is utilized for both classification and regression tasks.
 
 ## Seminar 2
-Hyperlink-Induced Topic Search (HITS), also known as the Hubs and Authorities algorithm, is a link analysis algorithm that assigns two scores to each page: Hub score and Authority score. It evaluates the importance of web pages based on the structure of the hyperlink graph.
+Unstructured Data Mining (web mining) - Hyperlink-Induced Topic Search (HITS), also known as the Hubs and Authorities algorithm, is a link analysis algorithm that assigns two scores to each page: Hub score and Authority score. It evaluates the importance of web pages based on the structure of the hyperlink graph.
