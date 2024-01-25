@@ -9,3 +9,16 @@ Structured Data Mining - Random Forest Algorithm: Random Forest is an ensemble l
 
 ## Seminar 2
 Unstructured Data Mining (web mining) - Hyperlink-Induced Topic Search (HITS), also known as the Hubs and Authorities algorithm, is a link analysis algorithm that assigns two scores to each page: Hub score and Authority score. It evaluates the importance of web pages based on the structure of the hyperlink graph.
+
+## Seminar 3
+Text mining, a dynamic field within natural language processing, involves nuanced analysis of textual data. Major areas include:
+
+- **Social Media Evaluation:** Unraveling sentiments and trends.
+- **Semantic Analysis:** Deciphering word meanings for context.
+- **Chatbots:** Enhancing responsiveness through text mining.
+- **Deep Learning for Text Analysis:** Empowering pattern discernment.
+- **Machine Translation:** Facilitating language translation.
+- **Text Generation:** Contributing to content creation.
+- **Information Extraction/Sentiment Analysis:** Discerning emotions and extracting insights.
+
+In these domains, text mining is a potent tool for extracting valuable insights from vast textual information.
