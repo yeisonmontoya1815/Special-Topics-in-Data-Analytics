@@ -1,19 +1,19 @@
 ##################################################
-#  Text Mining Obra - Don Quijote de la Mancha   #
+#  Text Mining Book - Don Quijote de la Mancha   #
 ##################################################
 
-# limpiamos el workspace
+# Cleaning the workspace
 rm(list = ls())
-# Limpiamos la consola
+# Cleaning the console
 cat("\014")
-# fijamos a UTF-8
+# fix UTF-8
 options(encoding = "utf-8")
 
 #########################
-# 1. Librerias necesarias
+# 1. Libraries requiered
 #########################
 
-# Vamos a cargar las librerias necesarias
+# loading the libraries
 library(pdftools)
 library(dplyr)
 library(stopwords)
@@ -31,10 +31,10 @@ library(topicmodels)
 library(cvTools)
 
 ########################
-# 2. Carga de datos
+# 2. load data
 ########################
 
-# Nos ubicamos en nuestro directorio de trabajo
+# going to the dektop framework
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 getwd()
 
