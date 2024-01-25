@@ -1,0 +1,32 @@
+#pip install nltk
+
+import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.probability import FreqDist
+import matplotlib.pyplot as plt
+
+# Download stopwords if not already present
+nltk.download('stopwords')
+nltk.download('punkt')
+
+# Sample text for analysis
+text = """Text mining is the process of extracting valuable information from unstructured text data.
+            It involves various techniques such as tokenization, stemming, and sentiment analysis."""
+
+# Tokenization
+words = word_tokenize(text.lower())  # Convert to lowercase for consistency
+print("Tokenized Words:", words)
+
+# Remove stopwords
+stop_words = set(stopwords.words('english'))
+filtered_words = [word for word in words if word.isalnum() and word not in stop_words]
+print("Filtered Words:", filtered_words)
+
+# Frequency Distribution
+fdist = FreqDist(filtered_words)
+print("Frequency Distribution:", fdist)
+
+# Plot the top 10 most common words
+fdist.plot(10, cumulative=False)
+plt.show()
