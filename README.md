@@ -35,3 +35,16 @@ Text mining, a dynamic field within natural language processing, involves nuance
 - **Information Extraction/Sentiment Analysis:** Discerning emotions and extracting insights.
 
 In these domains, text mining is a potent tool for extracting valuable insights from vast textual information.
+
+## Seminar 4
+
+Big Data introduces a host of intricate challenges in terms of data generation, storage, and retrieval, as emphasized by Piety (2019). Addressing these challenges necessitates strategic approaches to unlock the potential inherent in extensive and varied datasets. The complexities involve efficiently handling diverse data types, particularly with the surge of information from sources like IoT and social media (Laney 2001). 
+
+Furthermore, the substantial volume of data requires scalable storage solutions that often surpass the capabilities of traditional databases. Quick and seamless access to relevant information is paramount for optimal functionality, necessitating systems tailored to retrieve data from repositories without compromising performance. In light of these challenges, this document aims to delineate key issues and propose strategies for data generation, storage, and retrieval. 
+
+It also advocates for the adoption of DynamoDB, an AWS-backed framework renowned for its competence in building technology stacks for managing large datasets at an affordable cost.
+
+
+
+
+
