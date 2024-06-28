@@ -4,6 +4,11 @@ This Space has been created to share some examples of the seminar given in the S
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
+📌 **Find me!**
+* [Linkedin](https://www.linkedin.com/in/yeisonmontoya/)
+* [Github](https://github.com/yeisonmontoya1815)
+
+
 ## Seminar 1
 
 **Structured Data Mining:**
