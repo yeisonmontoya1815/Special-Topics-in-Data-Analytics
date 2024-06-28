@@ -1,8 +1,8 @@
-# Special Topics in Data Analytics CSIS 4260 - 002
+# Special Topics in Data Analytics
 
-**Yeison Montoya ID: 300375916**
+This Space has been created to share some examples of the seminar given in the Special Topics in Data Analytics.
 
-This Space has been created to share some examples of the seminar given in the Special Topics in Data Analytics CSIS 4260 - 002 Winter 2024 at Douglas College.
+This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
 ## Seminar 1
 
